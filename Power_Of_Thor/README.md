@@ -3,6 +3,9 @@
 ![power_thor_capa](https://user-images.githubusercontent.com/74921179/191335856-914cfda5-0514-4cd0-8e49-1b1930a46684.png)
 
 
+![thor_lern](https://user-images.githubusercontent.com/74921179/191338710-d98aa026-0141-4145-bb0d-8fe17404ad2b.png)
+
+
 ![power_thor_rules](https://user-images.githubusercontent.com/74921179/191335887-c713b782-1d16-452f-b9b8-fc69faa6e886.png)
 
 
