@@ -1,5 +1,14 @@
 # Power Of Thor
 
+
+#### Notes:
+
+  - For the C version, I simply compared the initial position and the final one to guide Thor;
+  - For the C++ version, I did almost the same, but this time I did it on a OOP (Object Oriented Programming) fashion;
+    - Created a class for Thor and another for the objective point;
+    - Overloaded the '<' and '>' operators to make the class comparisons;
+
+
 ![power_thor_capa](https://user-images.githubusercontent.com/74921179/191335856-914cfda5-0514-4cd0-8e49-1b1930a46684.png)
 
 
@@ -13,8 +22,3 @@
 
 
 ![power_thor_synopsis](https://user-images.githubusercontent.com/74921179/191335960-4288bda2-34b9-4ae6-86f3-bd0c0cce6051.png)
-
-
-#### Notes:
-
-  - Simply compared the initial position and the final one to guide Thor;
