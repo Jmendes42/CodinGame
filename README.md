@@ -7,7 +7,6 @@ Link to my profile https://www.codingame.com/profile/e161607726940315fac1656ecf9
 
 ![Selection_001](https://user-images.githubusercontent.com/74921179/191148323-c61bee78-f924-4902-8525-eb522293b093.png)
 
-![leve](https://user-images.githubusercontent.com/74921179/191101666-33148979-d71c-41a8-8a14-856551cf5b7c.png)
+![skills](https://user-images.githubusercontent.com/74921179/192770665-761eb0db-fde3-4a25-8ddd-269fb6195dcd.png)
 
-
-![skills](https://user-images.githubusercontent.com/74921179/191101696-1f9750d8-9c4e-42e1-955b-420e87f82119.png)
+![certs](https://user-images.githubusercontent.com/74921179/192770575-799c7ff4-f79c-4ada-8d87-22fdf10adef3.png)
